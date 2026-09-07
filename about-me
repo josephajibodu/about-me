@@ -12,6 +12,146 @@ I started my career by teaching myself how to build both software and hardware -
 
 ---
 
+## The Full Origin Story (2013 onward)
+
+*Narrated from memory, kept as close to the full account as possible - not summarized down. Picks up where the LinkedIn post leaves off and fills in everything before and around it.*
+
+### Before tech: wanting to be a civil engineer
+
+I finished secondary school in July 2013. At the time, I genuinely wanted to be a civil engineer. My dad is a town planner, so I grew up around building-related work, and I had a real love for technical subjects - physics especially. Specifically, I was thinking about drilling: I wanted to help build drilling tools that would make the work of engineers much faster. Looking back, I actually made the wrong decision at the time - what I was really drawn to was closer to mechanical engineering, or maybe electrical/computer engineering. Those are the paths I feel like I should have gone for. But eventually, I went for civil engineering anyway, and did pre-degree for it.
+
+### The JAMB setback and pre-degree
+
+I didn't go to university directly. I hadn't even planned to write JAMB (Nigeria's university entrance exam) that year, because my dad has a habit of not wanting us to go straight from secondary school into university - he wanted me to stay back a year and learn something first. I don't fully know what his exact plan was. But I got a free, last-minute registration for JAMB, almost right before registration closed, so I sat it. I scored 199 - just short of the 200 cutoff (out of a possible 400).
+
+So I applied for pre-degree at Obafemi Awolowo University (OAU) instead, because OAU was the only school I wanted - I didn't want to go anywhere else. I got into the pre-degree program. I remember the person who helped me apply telling my mum that if I didn't take my studies seriously, they'd basically be using my registration money "to plant flowers in OAU." That scared me a little, but I think it also motivated me - I remember thinking, why would you even say that? Why would you assume I won't make it? I think he was just speaking from what he'd seen as a lecturer there, not really about me specifically.
+
+I took pre-degree seriously and did well. Pre-degree runs about nine months. The cutoff for civil engineering was 60%. I came out with 83%. That score was high enough that my dad actually wanted me to switch to studying medicine - with that score, at that school, I could have gotten into medicine, since the cutoff for medicine was 80%. But I wasn't interested in medicine.
+
+### The strike and the wait
+
+After pre-degree, there was an ASUU strike - I think it started around 2012, before 2013, though I'm not entirely sure of the exact year - that lasted about six months and affected OAU's resumption schedule. I was supposed to resume at OAU in early-to-late 2014, but because of the strike, and because students already partway through their second semester hadn't finished, everyone had to wait. That wait pushed my resumption to 2015. I'd completed pre-degree in 2014, so that gap - waiting to resume, with nothing to do yet - is where the real story begins.
+
+### The phone that started it
+
+During that wait, I didn't yet have a laptop, but I had a phone: a Nokia Asha 501. I remember that phone very well - it was my first personal device, and a beautiful one. But it didn't even have WhatsApp - it was a Java phone, and Android had just come out around then, so I didn't have access to Android phones yet.
+
+Still, that phone gave me something I'd never had before: the freedom to just ask questions. I started Googling constantly during that early waiting period. I love Googling - I love it so much. Any question that came into my head, I'd search it, because having that phone gave me the freedom to just ask.
+
+That curiosity is what got me interested in building robotics. I wanted to build robots. I started researching how to build them.
+
+### Chasing robotics, finding programming
+
+As I researched, I realized building a robot isn't just about the mechanical parts or the electrical/moving parts - it's also about programming. I didn't know anything about programming at the time, and honestly, I tried to avoid it. I changed my search to things like "how to build robots without programming." I did get some results - I found some fairly basic line-following robot builds - but I wasn't intrigued by those.
+
+After a few months of essentially running away from programming, I decided to actually check out this thing called programming, since it kept coming up and felt like a completely different world to me. I picked a language based on the specific microcontroller I wanted to learn to program, which was a PIC microcontroller - and that meant learning C.
+
+I got a book for it and started learning. My Java phone couldn't run any code, so I was just reading, learning, and jotting things down. I'd give myself assignments and write them out by hand in a notebook - I had no idea if I was making syntax errors or not, but I was learning. And honestly, it was actually really fun.
+
+### First laptop, first real code
+
+I eventually resumed at OAU - I think around July 2015, though I'm not entirely sure of the exact month. Resuming gave me the chance to ask my parents for a laptop. I asked my dad, and he gave me forty-five thousand naira for it - I remember that clearly. I went and bought a UK-used laptop for that amount, which was a fair price at the time. I was very happy.
+
+I started downloading everything I needed to run C on the computer, and I wrote my very first command. It errored, honestly - but I set it up properly and started learning it the right way, on my own laptop. At that point, I didn't even know that people consider C a genuinely tough language - I didn't know any of that context. I was just facing it myself, with no idea what I was up against.
+
+I wanted to move on to Arduino next, but the real obstacle with robotics and embedded systems was that I didn't have money to buy the parts I needed. So I mostly simulated things online instead. Around that time, on my hostel floor, I saw Electrical and Computer Engineering students building embedded projects and small robots. I tried to get involved a little - assisting some people with things, observing what they were doing - but I knew I had to figure out something else, since I didn't have money for parts and didn't even know where to get them. I was also introverted, so I wasn't talking to many people at the time - people who probably could have pointed me in the right direction if I'd asked.
+
+### Watching others, learning Java
+
+Then I noticed someone on my hostel floor - a direct-entry student who'd transferred in from a polytechnic - building a calculator app using Java. I thought it was amazing. I asked him to teach me; he said he doesn't really teach, but he gave me a textbook to use instead. I got the book and studied it hard - honestly, I studied that textbook more than I studied my actual academic coursework that first year (Part 1). I learned Java from it and was able to build the same kind of calculator he had. It was genuinely fun.
+
+Later I learned that Java could also be used to build mobile apps, so I tried downloading Android Studio - but my laptop wasn't powerful enough for it. It was slow, and honestly frustrating. Nobody really cared much about desktop apps by that point anyway, and I'd already built everything I wanted to on desktop - a calculator, a tic-tac-toe game. So I wanted to move toward mobile apps since that was more common at the time, but my system just couldn't handle it.
+
+### Discovering web development
+
+Around then, I noticed someone else - a friend of someone in my room, a computer science student - writing what turned out to be websites, though I didn't know it was PHP at the time. I was intrigued again and went back to the same guy who'd given me the Java book. He told me what I needed to get started, and I began learning HTML, CSS, and JavaScript.
+
+JavaScript in particular gave me a hard time. At one point, during a school break, I actually registered for a class specifically because of it - but the class only covered things I already knew, so I didn't get the deeper answers I needed. I went back to figuring it out on my own.
+
+I remember building a login page and a registration page, and getting completely stuck: if someone logs in, what happens next? I genuinely didn't know what the next step was supposed to be.
+
+### The book that unlocked everything
+
+That's when I found the specific book that taught how to build a commercial (e-commerce) site using PHP, SQL, and MySQL. That book is what actually unlocked everything for me - it's what properly ushered me into real web development.
+
+All of this - the robotics detour, the PIC/C book, learning Java, getting into HTML/CSS/JS, getting stuck on the login page, finding the PHP book - happened as I moved from Part 1 into Part 2 of my degree. Part 1 (2015) was really my learning year. By Part 2 (2016), I was still building things.
+
+### Why this part matters to me now
+
+Looking back, you can see how long it took me to actually figure things out - and a big part of that comes down to being introverted, not really talking to people. That's one of the reasons I mentor people today. I feel like these are things that, with the right guidance, could take three months instead of years. I wouldn't have come out perfect, but I would have known what was coming next - instead of building HTML, CSS, and JavaScript and then just being stuck, not knowing there was a backend piece I needed to go learn next.
+
+### First paid project (late 2016)
+
+By 2016 I was telling people I could build websites. Late that year, around December, someone reached out - they'd heard I said I could build websites - about building one for them: a finance-related site with a MySQL database.
+
+I didn't even have a price for that job - I didn't know people actually paid for this kind of work until then. That's the first time I realized: oh, people can actually pay me for this. We agreed on ₦90,000, and I built the site. That was my first commercial project - the first time I ever got paid for a website - and the moment I realized I had something valuable in my hands.
+
+### 2017: The breakout year
+
+Here's the real timeline: 2014, I had no laptop yet. 2015, I had a laptop but was still figuring out what to actually do with it. 2016, I was still learning, building small apps and things like that, figuring my way through without guidance - and by late 2016 I was tired of building for other people without getting paid. Then 2017 is when I actually started getting paid for my builds. That's why I call 2017 my breakout year - it followed three years of learning that started back in 2014.
+
+That gap between when I started learning and when I first got paid is a big part of why I mentor. I know exactly what it takes to try to figure things out on your own. I know what it's like to be confused. So I want to help people cut across that bridge, because that's what I know how to do best.
+
+### Long-term relationships, not just projects
+
+The person who paid me that first ₦90,000 is someone I've actually stayed close with - in fact, every year since then, I've built a new website or app for that same person. That's how it's turned out, and it's kind of beautiful. I think I'm generally very good at keeping clients - I have strong relationships with the people I work with. There have been a few cases where a client and I had issues we couldn't agree on and had to part ways, but that's rare. Mostly, I'm very good at keeping my clients: I respect them, and I care about their projects as if they were my own.
+
+### From web to mobile, and freelancing through and after school
+
+From web development, I later moved into mobile app development, once I had a much better laptop. I was freelancing all through school, working with people. When I left school in 2019, I kept freelancing - working with people randomly, and trying out platforms like Upwork.
+
+### Cardvest: how the call actually came in
+
+I want to properly capture how I got into Cardvest, my first real company - because it wasn't through an application.
+
+Back when I was still in school, I was taking freelance projects - building websites for businesses, working through Upwork, getting referrals from people I'd worked with before. That's how I was getting work. I did it that way because I was still in school and couldn't really commit to a company - I might have responded to a company opportunity if one came up, but I wasn't looking for one. I was just taking projects to support myself while I was in school. I'll admit I was more focused on programming than academics at the time - I didn't fully leave my academics, but programming had my real attention. (That's actually its own story - how I wish, looking back, that I'd focused more on academics too - I'll tell that one separately at some point.)
+
+So, on the Cardvest side: I got a completely random call one day. Someone said "Good afternoon, are you yourself?" - I said yes. He asked, "You're a developer, right?" I said yes. He told me he'd gotten my contact from a particular developer-profile website - and honestly I was confused, because I couldn't even remember putting my details on that site. But apparently my profile was there.
+
+He turned out to be the COO of the project, not just someone working on it. He explained the situation: they'd had developers on the project already, but the developers kept disappointing him - the last one had given personal reasons for not being able to complete it, and because the reasons were genuinely personal, they couldn't even ask that developer for a refund. Now the project was close to its deadline, the actual client was on the COO's neck about it, and he was looking for a developer who could save him.
+
+I told him he'd come to the right person. He asked me for a quote for the project - it was a gift card trading platform (buying and selling gift cards) - that was Cardvest's core feature, similar to other gift-card-trading platforms that exist today.
+
+Before I could really give my quote, he quoted me first: sixty thousand naira. Honestly, that annoyed me a bit - my very first paid project back in 2017 was ninety thousand naira, and this was 2021, and now I was being offered sixty. He explained the budget was low because he'd already spent money on the failed project and was out of cash - he couldn't go back to the client for more. But he promised that if I came through and built it well, I'd lead the project going forward, get paid properly on future work - specifically their mobile app - and get what I was actually worth.
+
+For some reason, I decided to take it anyway - mainly because it was an opportunity to keep working on their platform going forward. I took it on and completed the project for him. He was genuinely excited. And he kept his word: he gave me the mobile app project next and paid me properly for that one. Eventually, they brought me in to maintain the platform full-time and put me on salary - that's actually how I started working with a company at all, not through an application, but through that one rescue project.
+
+### Growing Cardvest from zero
+
+From there, we grew the platform from zero users to somewhere over 100,000, maybe closer to 200,000 users. As it scaled, we ran into real scaling and performance issues - traffic problems the codebase wasn't built for. That's where I actually learned scaling, the hard way. I wrote bad code at points, had to go back and fix it, and learned a lot in the process.
+
+When we eventually brought in other developers - some of them genuinely smarter than me in different ways - I learned from them too, and I also guided them, walked with them properly. I really enjoyed that part of the experience. I spent over three years with Cardvest total, before InnovateHealth Africa and then Selar came along.
+
+### CTO at InnovateHealth Africa
+
+From working at that company, I got a number of other offers, while I was still freelancing on the side. I worked as CTO at InnovateHealth Africa, leading a team of developers building digital health-tech solutions.
+
+### Selar (late 2023 - present)
+
+Then, later in 2023, I applied to work at Selar, and the CEO personally interviewed me. I'm still working at Selar today, and I believe the sky is genuinely my limit - I know I'm going to go much, much further from here.
+
+### Milestones that marked how far I'd come
+
+- My first laptop: a UK-used machine, bought for ₦45,000, funded by my dad.
+- My first MacBook, also UK-used, bought around 2020/2021 for ₦330,000 - my biggest purchase at the time, and I was genuinely excited about it.
+- About two years after that, a brand-new MacBook Pro M1, for just over ₦1,000,000.
+
+### Where I am now
+
+Life's been good since then, though I'm not where I want to be yet. I've built so many products *for other people* that I rarely got around to building my own - whenever I try to start something for myself, I tend to get pulled back into other people's work instead.
+
+That's shifting this year. This year alone I've tried three projects of my own:
+
+- **Flitops** - a deployment platform for PHP websites, similar to Laravel Forge. I launched it and it worked for a while, but I paused it because of funding - I didn't have the money to keep running it. Still, I'm happy I built it and launched it, and that some people used it.
+- **YourWorldCup** - a project where people could predict match outcomes; I deployed it using Flitops itself, as one of my own products running on my own platform.
+- **Bouclay** - what I'm building right now: a subscription billing engine that's payment-gateway-agnostic, meaning it gives you the ability to use different payment gateways and load-balance between them.
+
+I want to move past just building products for myself, though, into actually getting them out there - properly distributing them so people can use them, not just building and stopping.
+
+*(Story continues whenever the next part comes.)*
+
+---
+
 ## Why I Mentor (the real answer, not the interview answer)
 
 I learned on my own, with no guide. I wasted precious time tinkering and finding my way around - things that could've taken 3 months took closer to a year because there was no one to point the way.
